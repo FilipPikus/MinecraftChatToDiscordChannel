@@ -1,0 +1,4 @@
+name: minecraftchattodiscordchannel
+version: '1.0-SNAPSHOT'
+main: filip.hardcorecode.minecraftChatToDiscordChannel.MinecraftChatToDiscordChannel
+api-version: '1.20'
